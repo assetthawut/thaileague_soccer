@@ -1,0 +1,111 @@
+"team" :{
+	"1":{
+		"name": "Air Force Central",
+		"stadium":{
+				"name": "Thupatemi Stadium"
+			}
+		},
+	"2":{
+		"name":"Bangkok Glass",
+		"stadium":{
+				"name":"Leo Stadium"
+			}
+		},
+	"3":{
+		"name": "Bangkok United",
+		"stadium":{
+				"name":"Thammasat Stadium"
+			}
+		},
+	"4":{
+		"name":"Buriram United",
+		"stadium": {
+				"name":"Chang Arena"
+			}
+		},
+	"5":{
+		"name":"Chainat Hornbill",
+		"stadium": {
+				"name": "Khao Plong Stadium"
+			}
+		},
+	"6":{
+		"name":"Chiangrai United",
+		"stadium": {
+				"name": "Singha Stadium"
+			}
+		},
+	"7":{
+		"name":"Chonburi",
+		"stadium": {
+				"name":"Chonburi Stadium"
+			}
+		},
+	"8":{
+		"name":"Muangthong United",
+		"stadium": {
+				"name":"SCG Stadium"
+			}
+		},
+	"9":{
+		"name":"Nakhon Ratchasima",
+		"stadium": {
+				"name":"80th Birthday Stadium"
+			}
+		},
+	"10":{ 
+		"name":"Navy",
+		"stadium": {
+				"name":"Sattahip Navy Stadium"
+			}
+		},
+	"11":{
+		"name":"Pattaya United",
+		"stadium": {
+				"name":"Nong Prue Stadium"
+			}
+		},
+	"12":{
+		"name":"Police Tero",
+		"stadium": {
+				"name":"Boonyachinda Stadium"
+			}
+		},
+	"13":{
+		"name":"Port",
+		"stadium": {
+				"name":"PAT Stadium"
+			}
+		},
+	"14":{
+		"name":"PT Prachuap",
+		"stadium": {
+				"name": "Sam Ao Stadium"
+			}
+		},
+	"15":{
+		"name":"Ratchaburi Mitr Phol",
+		"stadium": {
+				"name" : "Mitr Phol Stadium"
+			}
+		},
+	"16":{
+		"name":"Sukhothai",
+		"stadium": {
+				"name": "Thung Thalay Luang Stadium"
+			}
+		},
+	"17":{
+		"name":"Suphanburi",
+		"stadium": {
+				"name": "Suphan Buri Provincial Stadium"
+			}
+		},
+	"18":{
+		"name":"Ubon Umt United",
+		"stadium": {
+				"name": "UMT Stadium"
+			}
+		},
+}
+
